@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I'm Sonu
+
+I am currently an undergraduate student studying Electrical Engineering at IIT Bhilai. My enthusiasm for learning drives me to continuously explore new areas and expand my knowledge by experimenting with various tools, technologies, and tech stacks.
 
 <!--
 **sonu856/sonu856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
