@@ -1,7 +1,11 @@
-### Hi there 👋 , I'm Sonu
+# Hi there 👋 , I'm Sonu
 
-I am currently an undergraduate student studying Electrical Engineering at IIT Bhilai. My enthusiasm for learning drives me to continuously explore new areas and expand my knowledge by experimenting with various tools, technologies, and tech stacks.
+I am currently an undergraduate student studying Electrical Engineering at IIT Bhilai. My enthusiasm for learning drives me to continuously explore new areas and expand my knowledge by experimenting with various tools and technologies.
 
+## About Me:
+- I'm a Full stack developer.
+- contact me at: sonukumar@iitbhilai.ac.in
+  
 <!--
 **sonu856/sonu856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
